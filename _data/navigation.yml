@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home"
-    url: https://www.natnit.net
+    url: https://webprotime.github.io/
   - title: "Jekyll Tutorials"
     url: https://webprotime.com/topics/jekyll
   - title: "About"
-    url: https://github.com/webprotime/webprotime-jekyll-theme
+    url: https://github.com/webprotime/webprotime.github.io
   - title: "Google"
     url: https://www.google.com
   # - title: "Sample Collections"
