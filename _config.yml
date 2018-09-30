@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NatNit"
+title                    : "WebProTime Jekyll Theme"
 title_separator          : "-"
-name                     : "natnit"
+name                     : "WebProTime Jekyll Theme"
 description              : "An amazing website."
-url                      : "https://www.natnit.net" # the base hostname & protocol for your site e.g. "https://webprotime.com/topics/jekyll"
+url                      : "https://webprotime.github.io/" # the base hostname & protocol for your site e.g. "https://webprotime.com/topics/jekyll"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "webprotime/webprotime-jekyll"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tatai"
+  name             : "WebProTime Jekyll Theme"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Lets Make A Blog."
   location         : "Earth"
